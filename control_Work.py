@@ -13,3 +13,4 @@ start = []
 end = []
 for i in range(5):
     start.append(input('Введите любое значение: '))
+for i in start:
