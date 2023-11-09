@@ -16,3 +16,4 @@ for i in range(5):
 for i in start:
     if len(i) <= 3:
         end.append(i)
+print(end)
